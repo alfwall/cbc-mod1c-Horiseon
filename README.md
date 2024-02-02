@@ -1,5 +1,10 @@
 # Module 1 - HoriSEOn Accessibility Refactor
 
+## Finished Project URL
+[Click here!](https://alfwall.github.io/cbc-mod1c-Horiseon/)
+
+![Screenshot of my refactored upload of the web page. The Chrome dev tools are open to the side, showing semanic elements in use.](./assets/images/ScreenshotOfLiveURL.png)
+
 ## User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
