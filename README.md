@@ -28,10 +28,10 @@ THEN I find a concise, descriptive title.
     - There are div elements throughout the starting code. Look up semantic sections that are fitting.
 2. Logical structure that is agnostic of styling
     - May have to adjust CSS to look at semantic elements instead of divs with classes.
-3. Accessible alt attributes
-    - The first big image is declared in CSS... and looks like a div with a class in HTML. Change that.
-    - All following images just need alt text.
+3. ~~Accessible alt attributes~~
+    - ~~The first big image is declared in CSS... and looks like a div with a class in HTML. Change that.~~
+    - ~~All following images just need alt text.~~
 4. Heading attributes are in sequential order
     - h1, h2, and h3 headers are present, check the styles sheet to make sure they don't visually change.
-5. Concise, descriptive title
-    - Current title is "website", this should be a quick change.
+5. ~~Concise, descriptive title~~
+    - ~~Current title is "website", this should be a quick change.~~
