@@ -1,4 +1,8 @@
-# Module 1 - HoriSEOn Accessibility Refactor
+# Coding BootCamp Module 1 Challenge: Horiseon Refactoring
+
+## Description
+A refactoring of the provided HoriSEOn web page to include semantic elements and cleaner CSS selectors.
+I also found something that was missing from the starting code- the first navigation link at the top didn't actually anchor to anything! I added the necessary id attribute to the appropriate section.
 
 ## Finished Project URL
 [Click here!](https://alfwall.github.io/cbc-mod1c-Horiseon/)
